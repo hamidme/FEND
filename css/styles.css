@@ -1,0 +1,41 @@
+/* add your CSS here */
+body{
+background-color: black;
+font-family: "Times New Roman", Times, serif;
+}
+.main-container{
+	background-color: #ffff;
+    width: 340px;
+	margin: auto;
+	padding: 10px;
+}
+
+.container-inner{
+	margin: 5px;
+    border: solid #d3d3d3 1px;
+    padding: 5px;
+    box-shadow: 4px 4px 4px #dadada;
+}
+.about{
+	border: solid 1px #d3d3d3;
+	padding: 8px;
+	margin: 5px 8px 5px 8px;
+}
+h1, h2, h3{
+	font-size: 2em;
+	padding-left: 8px;
+}
+img {
+	padding: 0 8px 2px 8px;
+}
+.about-fact{
+	font-style: italic;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ li span{
+ 	font-weight: bold;
+ }
